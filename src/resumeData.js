@@ -1,14 +1,14 @@
 let resumeData = {
   "imagebaseurl":"https://lucashan.github.io/",
   "name": "Lucas Han",
-  "role": "Web Developer",
+  "role": "student and developer interested in machine learning and web development",
   "emailid": "Your emailid",
   "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": " I am passionate about building engaging products that enable meaningful experiences.",
   "socialLinks":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/",
+        "url":"https://www.facebook.com/lucas.han.58",
         "className":"fa fa-facebook"
       },
       {
@@ -23,50 +23,46 @@ let resumeData = {
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/",
+        "url":"https://www.linkedin.com/in/hanlucas/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/",
+        "url":"https://github.com/lucashan",
         "className":"fa fa-github"
       },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
-      }
+
     ],
   "aboutme":"A little info about me",
-  "address":"Somewhere in this world",
-  "website":"http://technoetics.in",
+  "address":"Cupertino, CA",
+  "website":"luhan@calpoly.edu",
   "education":[
     {
-      "UniversityName":"Some University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
+      "UniversityName":"California Polytechnic State University SLO",
+      "specialization":"Bachelor's Degree in Computer Science",
+      "MonthOfPassing":"Fall",
+      "YearOfPassing":"2019",
       "Achievements":"Some Achievements"
     },
-    {
-      "UniversityName":"Some University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
-    }
   ],
   "work":[
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
-      "MonthOfLeaving":"Jan",
+      "CompanyName":"Intuit",
+      "specialization":"Software Engineering Intern",
+      "MonthOfLeaving":"Sept",
       "YearOfLeaving":"2018",
       "Achievements":"Some Achievements"
     },
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
+      "CompanyName":"HG Data",
+      "specialization":"Software Engineering Intern",
+      "MonthOfLeaving":"Sept",
+      "YearOfLeaving":"2016",
+      "Achievements":"Some Achievements"
+    },
+    {
+      "CompanyName":"Collective Efforts Events",
+      "specialization":"Marketing Intern",
       "MonthOfLeaving":"Jan",
       "YearOfLeaving":"2018",
       "Achievements":"Some Achievements"
